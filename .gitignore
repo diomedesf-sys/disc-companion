@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+scan_cache.json
+disc-companion/
+.env
